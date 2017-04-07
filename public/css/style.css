@@ -12,5 +12,17 @@
   font-family: "Allerta Stencil", Sans-serif;
 }
 
+.sources li {
+  list-style: none;
+  float: left;
+  margin: 2px;
+}
+
+.sources li img {
+  width: 70px;
+  height: 40px:
+}
+
+
 
 </style>
