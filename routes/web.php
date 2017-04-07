@@ -14,3 +14,11 @@
 Route::get('/', function () {
     return view('pages.recommend');
 });
+
+Route::group(['middleware' => ['web']], function () {
+
+Route::get('Recommend', 'PagesController@getRecommend');
+Route::get('News', 'PagesController@getNews');
+Route::get('Videos', 'PagesController@getVideos');
+
+});

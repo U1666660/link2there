@@ -4,10 +4,10 @@
 
 @section('content')
 
-  <div id="Recommend" class="w3-container city w3-animate-opacity">
-    <h2>London</h2>
-    <p>London is the capital city of England.</p>
-    <p>It is the most populous city in the United Kingdom, with a metropolitan area of over 13 million inhabitants.</p>
+  <div class="w3-container w3-card-2 w3-white w3-round w3-margin"><br>
+  <h4>Links</h4><br>
+
+
   </div>
 
 

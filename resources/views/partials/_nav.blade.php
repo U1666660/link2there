@@ -48,9 +48,9 @@ width: 100%;
 <div>
   <div class="w3-center">
   <div class="w3-bar w3-theme">
-    <h4> <button class="w3-bar-item w3-button testbtn w3-padding-16" onclick="openCity(event,'Recommend')">Recommend</button>
-    <button class="w3-bar-item w3-button testbtn w3-padding-16" onclick="openCity(event,'News')">News</button>
-    <button class="w3-bar-item w3-button testbtn w3-padding-16" onclick="openCity(event,'Videos')">Videos</button>
+    <h4> <button class="w3-bar-item w3-button testbtn w3-padding-16" "{{ Request::is('Recommend') ? "active" : "" }}"> <a href="Recommend">Recommend</a></button>
+    <button class="w3-bar-item w3-button testbtn w3-padding-16" "{{ Request::is('Recommend') ? "active" : "" }}"><a href="News">News</a></button>
+    <button class="w3-bar-item w3-button testbtn w3-padding-16" "{{ Request::is('Videos') ? "active" : "" }}"><a href="Videos">Videos</a></button>
   </div>
   </div>
 </h4>
@@ -58,8 +58,8 @@ width: 100%;
 
 
 
-<!-- Script for Sidebar, Tabs, Accordions, Progress bars and slideshows -->
-<script>
+<!-- Script for Sidebar, Tabs, Accordions, Progress bars and slideshows
+ <script>
 // Side navigation
 function w3_open() {
     var x = document.getElementById("mySidebar");
@@ -90,7 +90,7 @@ function openCity(evt, cityName) {
 var mybtn = document.getElementsByClassName("testbtn")[0];
 mybtn.click();
 
-</script>
+</script> -->
 
 
 
