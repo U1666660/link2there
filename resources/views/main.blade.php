@@ -2,6 +2,7 @@
 <html lang="en">
  <head>
   @include('partials._head')
+  @include('partials._javascript')
  </head>
 
   <body>
@@ -16,7 +17,7 @@
 
     </div> <!-- end of .container -->
 
-    @include('partials._javascript')
+
 
     @yield('scripts')
   </body>

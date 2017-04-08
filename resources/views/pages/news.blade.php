@@ -4,6 +4,7 @@
 
 @section('content')
 
+
 <style>
 
 .section {
@@ -27,10 +28,11 @@
 
 <div class="clearfix"></div>
 
+<!-- News Resources  -->
 
 <div class="container">
 <div class="col-md-4">
-  <div class="panel panel-default">
+<div class="panel panel-default">
     <div class="panel-heading">
       <h3 class="panel-title">News Resources</h3>
     </div>
@@ -58,7 +60,7 @@
     </div>
   </div>
 </div>
-
+<!-- End Of News Resources  -->
 
 <div class="col-md-8">
   <div class="panel panel-default articles">

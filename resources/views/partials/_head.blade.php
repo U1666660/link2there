@@ -2,6 +2,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
+
 <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
 <title>link2there @yield('title')</title>  <!-- CHANGE THIS TITLE FOR EACH PAGE -->
 
@@ -16,7 +17,8 @@ sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossor
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Allerta+Stencil">
 
 
-{{ Html::style('public/css/styles.css') }}
+{!! Html::style('css/style.css') !!}
+
 
 <!-- @yield('stylesheets') -->
 

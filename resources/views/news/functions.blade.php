@@ -1,6 +1,6 @@
 <?php
 
-     function sources() {
+
 
        $urlSources = file_get_contents('https://newsapi.org/v1/sources?language=en');
        $urlSourcesArray = json_decode($urlSources, true);
@@ -13,7 +13,7 @@
 
           }
 
-  }
+
 
 
  ?>

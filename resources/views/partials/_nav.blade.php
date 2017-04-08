@@ -20,7 +20,7 @@ border: 2px solid #ccc;
 border-radius: 4px;
 font-size: 16px;
 background-color: white;
-background-image: url('searchicon.png');
+background-image: url('css/img/searchicon.png');
 background-position: 10px 10px;
 background-repeat: no-repeat;
 padding: 12px 20px 12px 40px;
@@ -51,6 +51,7 @@ width: 100%;
     <h4> <button class="w3-bar-item w3-button testbtn w3-padding-16" "{{ Request::is('Recommend') ? "active" : "" }}"> <a href="Recommend">Recommend</a></button>
     <button class="w3-bar-item w3-button testbtn w3-padding-16" "{{ Request::is('Recommend') ? "active" : "" }}"><a href="News">News</a></button>
     <button class="w3-bar-item w3-button testbtn w3-padding-16" "{{ Request::is('Videos') ? "active" : "" }}"><a href="Videos">Videos</a></button>
+    <button class="w3-bar-item w3-button testbtn w3-padding-16" "{{ Request::is('Test') ? "active" : "" }}"><a href="Test">Test</a></button>
   </div>
   </div>
 </h4>
