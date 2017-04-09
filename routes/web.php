@@ -21,5 +21,6 @@ Route::get('Recommend', 'PagesController@getRecommend');
 Route::get('News', 'PagesController@getNews');
 Route::get('Videos', 'PagesController@getVideos');
 Route::get('Test', 'PagesController@getTest');
+Route::get('About', 'PagesController@getAbout');
 
 });

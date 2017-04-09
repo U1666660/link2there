@@ -28,5 +28,10 @@ class PagesController extends Controller {
 
     }
 
+    public function getAbout(){
+      return view('pages.about');
+
+    }
+
 
 }

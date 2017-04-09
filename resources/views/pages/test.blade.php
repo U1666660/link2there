@@ -279,6 +279,22 @@ background-size: cover;
 background: url(css/img/demo4.jpg) center center;
 background-size: cover;
 }
+
+.tps-section:nth-child(5n+1) .tps-wrapper {
+background: url(css/img/demo5.jpg) center center;
+background-size: cover;
+}
+
+.tps-section:nth-child(6n+1) .tps-wrapper {
+background: url(css/img/demo6.jpg) center center;
+background-size: cover;
+}
+
+.tps-section:nth-child(7n+1) .tps-wrapper {
+background: url(css/img/demo7.jpg) center center;
+background-size: cover;
+}
+
 .header {
 overflow: hidden;
 clear: both;
@@ -306,6 +322,8 @@ src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
 </script>
 </div>
 </div>
+
+<!-- Core Content of Page -->
 
 <section class="page1">
 <div class="page_container">
@@ -359,6 +377,38 @@ src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
 
 </div>
 </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 <script type="text/javascript">
