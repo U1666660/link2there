@@ -1,5 +1,5 @@
 <!-- Header -->
-<header class="w3-container w3-theme w3-padding" id="myHeader">
+<header class="w3-container w3-theme w3-padding">
   <!-- <i onclick="w3_open()" class="fa fa-bars w3-xlarge w3-button w3-theme"></i> -->
   <div>
   <h4>The New Way To Surf The Net</h4>
