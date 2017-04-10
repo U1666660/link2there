@@ -313,15 +313,7 @@ clear: both;
 <body>
 <div class="wrapper">
 <div class="main">
-<div class="header">
-<div class="jquery-script-ads">
-<script type="text/javascript">
-</script>
-<script type="text/javascript"
-src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script>
-</div>
-</div>
+<div class="header"></div>
 
 <!-- Core Content of Page -->
 

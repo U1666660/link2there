@@ -5,23 +5,13 @@
   <h4>The New Way To Surf The Net</h4>
   <div class="w3-container w3-teal w3-allerta">
     <p class="w3-xxxlarge w3-animate-bottom">link2there</p>
-    <div class="w3-center">
-    <div class="w3-bar w3-theme">
-      <h4><button class="w3-bar-item w3-button testbtn w3-padding-16" "{{ Request::is('Recommend') ? "active" : "" }}"> <a href="Recommend" style="color:white;">Recommend</a></button>
-      <button class="w3-bar-item w3-button testbtn w3-padding-16" "{{ Request::is('Recommend') ? "active" : "" }}"><a href="News" style="color:white;">News</a></button>
-      <button class="w3-bar-item w3-button testbtn w3-padding-16" "{{ Request::is('Videos') ? "active" : "" }}"><a href="Videos" style="color:white;">Videos</a></button>
-      <button class="w3-bar-item w3-button testbtn w3-padding-16" "{{ Request::is('Test') ? "active" : "" }}"><a href="Test" style="color:white;">Test</a></button>
-      <button class="w3-bar-item w3-button testbtn w3-padding-16" "{{ Request::is('About') ? "active" : "" }}"><a href="About" style="color:white;">About</a></button>
-      </h4>
-    </div>
-    </div>
   </div>
 </div>
 
 
 <!--Search Box -->
 
-<head>
+<!--<head>
 <style>
 input[type=text] {
 width: 130px;
@@ -50,7 +40,24 @@ width: 100%;
 <input type="text" name="search" placeholder="Search..">
 </form>
 </div>
-</body>
+</body> -->
+
+
+<!-- Search Box End -->
+
+<div>
+  <div class="w3-center">
+  <div class="w3-bar w3-theme">
+    <h4> <button class="w3-bar-item w3-button testbtn w3-padding-16" "{{ Request::is('Recommend') ? "active" : "" }}"> <a href="Recommend">Recommend</a></button>
+    <button class="w3-bar-item w3-button testbtn w3-padding-16" "{{ Request::is('Recommend') ? "active" : "" }}"><a href="News">News</a></button>
+    <button class="w3-bar-item w3-button testbtn w3-padding-16" "{{ Request::is('Videos') ? "active" : "" }}"><a href="Videos">Videos</a></button>
+    <button class="w3-bar-item w3-button testbtn w3-padding-16" "{{ Request::is('Test') ? "active" : "" }}"><a href="Test">Test</a></button>
+    <button class="w3-bar-item w3-button testbtn w3-padding-16" "{{ Request::is('About') ? "active" : "" }}"><a href="About">About</a></button>
+  </div>
+  </div>
+</h4>
+</div>
+
 
 
 

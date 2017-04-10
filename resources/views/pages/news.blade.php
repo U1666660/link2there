@@ -13,7 +13,7 @@
   <div class="w3-row-padding">
 
   <!--Left Live News-->
-    <div class="w3-half">
+    <div class="w3-third">
       <div class="row">
       <div class="col-md-12">
       <div class="panel panel-default">
@@ -80,11 +80,11 @@
 
 
   <!--Right Column-->
-  <div class="w3-half">
+  <div class="w3-twothird" "float:right">
 
 
       <div class="row">
-      <div class="col-md-12">
+      <div class="col-md-16">
       <div class="panel panel-default">
       <div class="panel-heading"><span class="glyphicon glyphicon-folder-open"></span><b> News Sources</b></div>
       <div class="panel-body">

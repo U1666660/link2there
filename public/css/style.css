@@ -48,3 +48,136 @@
     margin:0px;
     border-bottom:1px dotted #555;
 }
+
+/* Recommend Style */
+
+BODY {
+  PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+DIV {
+  PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+DL {
+  PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+DT {
+  PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+DD {
+  PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+UL {
+  PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+OL {
+  PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+LI {
+  PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+H1 {
+  PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+H2 {
+  PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+
+P {
+  PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+
+LI {
+  LIST-STYLE-TYPE: none; LIST-STYLE-IMAGE: none
+}
+
+H2 {
+  FONT-SIZE: 100%
+}
+
+#change-site {width:1000px; margin:50px auto;}
+#change-site .choosesites {
+  BORDER-BOTTOM: #a3d7df 1px solid; BORDER-LEFT: #a3d7df 1px solid; PADDING-BOTTOM: 60px; BACKGROUND: #fff; BORDER-TOP: #a3d7df 1px solid; BORDER-RIGHT: #a3d7df 1px solid; box-shadow: 0 0 1px #d4edf4
+}
+#change-site .choosesites A:hover {
+  TEXT-DECORATION: none
+}
+
+#change-site .siteslist H2 {
+  	POSITION: relative; PADDING-BOTTOM: 0px; LINE-HEIGHT: 30px; MARGIN: 20px 20px 12px; PADDING-LEFT: 14px; PADDING-RIGHT: 14px; ZOOM: 1.5; DISPLAY: inline-block; BACKGROUND: #009788; HEIGHT: 32px; COLOR: #fff; PADDING-TOP: 0px; border-radius: 0
+}
+
+#change-site .siteslist H2 SPAN {
+  BORDER-BOTTOM: #fff 6px solid; POSITION: absolute; BORDER-LEFT: #fff 6px solid; LINE-HEIGHT: 0; WIDTH: 0px; DISPLAY: block; FLOAT: none; HEIGHT: 0px; FONT-SIZE: 0px; BORDER-TOP: #009788 6px solid; TOP: 32px; BORDER-RIGHT: #fff 6px solid; LEFT: 20px
+}
+#change-site .siteslist LI {
+  BORDER-BOTTOM: #fff 1px solid; BORDER-TOP: #fff 1px solid
+}
+#change-site .siteslist P {
+  BORDER-BOTTOM: #fff 1px solid; PADDING-BOTTOM: 6px; PADDING-LEFT: 30px; PADDING-RIGHT: 10px; BORDER-TOP: #fff 1px solid; PADDING-TOP: 6px
+}
+#change-site .siteslist SPAN.label {
+  BORDER-BOTTOM: #ddd 1px solid; BORDER-LEFT: #ddd 1px solid; LINE-HEIGHT: 24px; WIDTH: 72px; ZOOM: 1; DISPLAY: inline-block; HEIGHT: 30px; COLOR: #666; VERTICAL-ALIGN: top; BORDER-TOP: #ddd 1px solid; MARGIN-RIGHT: 5px; BORDER-RIGHT: #ddd 1px solid; border-radius: 0
+}
+#change-site .siteslist SPAN.label STRONG {
+  BORDER-BOTTOM: #f7f7f7 1px solid; TEXT-ALIGN: center; BORDER-LEFT: #f7f7f7 1px solid; WIDTH: 74px; DISPLAY: block; FONT-FAMILY: Helvetica; BACKGROUND: #f1f1f1; HEIGHT: 28px; FONT-SIZE: 16px; BORDER-TOP: #f7f7f7 1px solid; BORDER-RIGHT: #f7f7f7 1px solid; border-radius: 0
+}
+#change-site .siteslist SPAN {
+  WIDTH: 880px; ZOOM: 1; DISPLAY: inline-block; VERTICAL-ALIGN: top
+}
+#change-site .siteslist SPAN I {
+  FONT-STYLE: normal; MARGIN: 0px 3px; COLOR: #ccc
+}
+#change-site .siteslist .hover {
+  BORDER-BOTTOM-COLOR: #e5e5e5; BORDER-TOP-COLOR: #e5e5e5; BORDER-RIGHT-COLOR: #e5e5e5; BORDER-LEFT-COLOR: #e5e5e5
+}
+#change-site .siteslist .hover P {
+  BACKGROUND: #f7f7f7
+}
+#change-site .siteslist .hover SPAN.label {
+  BORDER-BOTTOM-COLOR: #1a9e91; BORDER-TOP-COLOR: #1a9e91; BORDER-RIGHT-COLOR: #1a9e91; BORDER-LEFT-COLOR: #1a9e91
+}
+#change-site .siteslist .hover SPAN.label STRONG {
+  BORDER-BOTTOM-COLOR: #009788; BORDER-TOP-COLOR: #009788; BACKGROUND: #009788; COLOR: #fff; BORDER-RIGHT-COLOR: #009788; BORDER-LEFT-COLOR: #009788
+}
+#change-site .siteslist A {
+  PADDING-BOTTOM: 1px; LINE-HEIGHT: 20px; MARGIN: 5px 10px; PADDING: 5px 10px;  ZOOM: 1; DISPLAY: inline-block; HEIGHT: 20px;  border-radius: 0
+}
+#change-site .siteslist A:hover {
+  BACKGROUND: #009788; COLOR: #fff
+}
+#change-site .siteslist .isonline {
+  FONT-WEIGHT: bold
+}
+#change-site .siteslist .isoffline {
+  FONT-WEIGHT: bold
+}
+#bdw {
+  MIN-HEIGHT: 500px
+}
+.cf {
+  ZOOM: 1
+}
+.cf:after {
+  DISPLAY: block; HEIGHT: 0px; VISIBILITY: hidden; CLEAR: both; OVERFLOW: hidden; CONTENT: ''
+}
+H2 {
+  PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+
+BODY {
+  FONT: 14px/1.5 Tahoma, Helvetica, arial, sans-serif; BACKGROUND: #d6e9ec; COLOR: #000
+}
+A {
+  COLOR: #399; TEXT-DECORATION: none
+}
+A:hover {
+  TEXT-DECORATION: underline
+}
+SPAN.money {
+  FONT-FAMILY: arial
+}
+SPAN.required {
+  COLOR: red
+}
+
+/* Recommend Style */
