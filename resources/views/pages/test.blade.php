@@ -301,6 +301,8 @@ clear: both;
 }
 </style>
 
+
+
 <script>
 	  $(document).ready(function(){
       $(".main").tiltedpage_scroll({
@@ -309,7 +311,8 @@ clear: both;
 		});
 
 	  </script>
-</head>
+
+
 <body>
 <div class="wrapper">
 <div class="main">
@@ -418,7 +421,6 @@ clear: both;
 
 </script>
 </body>
-
 
 
 

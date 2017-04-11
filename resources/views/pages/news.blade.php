@@ -31,7 +31,7 @@
          for($i = 0; $i < count($articles); $i++) {
            $sites = $urlArticlesArray['articles'][$i];
 
-
+/* news-item from site.css */
            echo '<li class="news-item">
            <table cellpadding="4">
            <tr>
