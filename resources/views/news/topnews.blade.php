@@ -4,21 +4,19 @@
 @include('newsfetch.ft')
 @include('newsfetch.metro')
 @include('newsfetch.googlenews')
-
 @include('newsfetch.businessinsider')
 @include('newsfetch.guardianuk')
 @include('newsfetch.fourfourtwo')
-@include('newsfetch.newyorktimes')
-@include('newsfetch.hackernews')
+
 @include('newsfetch.mirror')
-@include('newsfetch.metro')
-@include('newsfetch.metro')
-@include('newsfetch.metro')
-@include('newsfetch.metro')
-@include('newsfetch.metro')
-@include('newsfetch.metro')
-@include('newsfetch.metro')
-@include('newsfetch.metro')
+@include('newsfetch.nationalgeographic')
+@include('newsfetch.cnbc')
+@include('newsfetch.mtvnews')
+@include('newsfetch.newscientist')
+@include('newsfetch.foxsports')
+@include('newsfetch.entertainmentweekly')
+@include('newsfetch.theeconomist')
+@include('newsfetch.techcrunch')
 
 
 
@@ -207,12 +205,30 @@
 		<div class="list box text-shadow">
 
 			<!-- bloomberg -->
-<?php  echo bloomberg (); ?>
-<?php  echo bbcnews (); ?>
+
+
 <?php  echo dailymail (); ?>
 <?php  echo ft (); ?>
+<?php  echo bbcnews (); ?>
+<?php  echo theeconomist (); ?>
 <?php  echo metro (); ?>
 <?php  echo googlenews (); ?>
+<?php  echo bloomberg (); ?>
+<?php  echo businessinsider (); ?>
+<?php  echo guardianuk (); ?>
+<?php  echo fourfourtwo (); ?>
+<?php  echo newscientist (); ?>
+<?php  echo foxsports (); ?>
+<?php  echo techcrunch (); ?>
+<?php  echo cnbc (); ?>
+<?php  echo entertainmentweekly (); ?>
+<?php  echo nationalgeographic (); ?>
+
+
+
+
+
+
 
 
 

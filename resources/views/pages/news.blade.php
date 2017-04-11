@@ -79,7 +79,7 @@
   			<script type="text/javascript">
   							$(function () {
   									$(".livenews").bootstrapNews({
-  											newsPerPage: 4,
+  											newsPerPage: 6,
   											autoplay: true,
   								pauseOnHover:true,
   											direction: 'up',
