@@ -9,7 +9,7 @@ function sources () {
           $websites = $urlSourcesArray['sources'][$i];
 
           echo '<li>
-          <a href="'.$websites['url'].'"><img style="height:24px; width:58px" src="'.$websites['urlsToLogos']['large'].'"></a>
+          <a href="'.$websites['url'].'"><img style="height:20px; width:40px" src="'.$websites['urlsToLogos']['small'].'" ></a>
           </li>
 
            ';
