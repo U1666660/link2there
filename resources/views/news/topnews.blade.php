@@ -225,13 +225,6 @@
 <?php  echo nationalgeographic (); ?>
 
 
-
-
-
-
-
-
-
 </div>
 
 		<div class="box jplist-no-results text-shadow align-center">
@@ -240,9 +233,11 @@
 
 	</div>
 
+
 	<!--<><><><><><><><><><><><><><><><><><><><><><><><><><> END <><><><><><><><><><><><><><><><><><><><><><><><><><>-->
 </div>
 </div>
+
 
 </body>
 
