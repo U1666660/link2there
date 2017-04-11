@@ -264,7 +264,7 @@ letter-spacing: 1px;
 font-size: 14px;
 }
 .tps-section:nth-child(1n+1) .tps-wrapper {
-background:url(css/img/demo1.jpg) center center;
+background:#fff center center;
 background-size: cover;
 }
 .tps-section:nth-child(2n+1) .tps-wrapper {
@@ -322,8 +322,33 @@ clear: both;
 
 <section class="page1">
 <div class="page_container">
-<h1><a href="" target="_blank">Travel to Sydney, Australia<br>
-<small>Completed on 14 Feb 2014</small></a></h1>
+<p class="w3-small"><a href="" target="_blank">
+
+	<?php
+	  $urlArticles = file_get_contents('https://newsapi.org/v1/articles?source=bloomberg&sortBy=top&apiKey=3329a36068a14512b9acb66f2b8f800a');
+	  $urlArticlesArray = json_decode($urlArticles, true);
+
+	   $articles = $urlArticlesArray['articles'];
+	   for($i = 0; $i < count($articles); $i++) {
+	     $sites = $urlArticlesArray['articles'][$i];
+
+
+	     echo '<li>
+	     <table>
+	     <tr>
+	     <td>'.$sites['title'].'</td>
+	     </tr>
+	     <tr>
+	     <td>'.$sites['description'].' '.date('M j, Y H:i', strtotime($sites['publishedAt'])).'<a href="'.$sites['url'].' "style="color:blue;"> Read more...</a></td>
+	     </tr>
+	     </table>
+	     </li>';
+	     }
+
+
+	?>
+
+</a></p>
 </div>
 
 </section>

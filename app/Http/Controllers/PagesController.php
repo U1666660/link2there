@@ -33,5 +33,10 @@ class PagesController extends Controller {
 
     }
 
+    public function getListview(){
+      return view('pages.listview');
+
+    }
+
 
 }

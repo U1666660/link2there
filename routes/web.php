@@ -22,5 +22,6 @@ Route::get('News', 'PagesController@getNews');
 Route::get('Videos', 'PagesController@getVideos');
 Route::get('Test', 'PagesController@getTest');
 Route::get('About', 'PagesController@getAbout');
+Route::get('Listview', 'PagesController@getListview');
 
 });
