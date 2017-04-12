@@ -13,7 +13,6 @@ sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossor
 <link rel="stylesheet" href="http://netdna.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css">
 
 
-
 <!-- W3 -->
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 <link rel="stylesheet" href="https://www.w3schools.com/lib/w3-theme-Teal.css">
@@ -23,9 +22,11 @@ sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossor
 {!! Html::style('css/style.css') !!}
 
 
-
 <!-- font libs -->
 <link href="http://fonts.googleapis.com/css?family=Lato" rel="stylesheet" type="text/css" />
+<link href="http://fonts.googleapis.com/css?family=Montserrat+Alternates" rel="stylesheet" type="text/css" />
+<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:700&effect=shadow-multiple|3d-float" rel="stylesheet" type="text/css" />
+
 <link href="http://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet" />
 
 <!-- demo page styles -->
@@ -34,14 +35,3 @@ sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossor
 
 <!-- jPList core  css  -->
 <link href="css/jplist.core.min.css" rel="stylesheet" type="text/css" />
-
-
-
-<!-- @yield('stylesheets') -->
-
-<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
-<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-<!--[if lt IE 9]>
-<script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
-<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
-<![endif]-->

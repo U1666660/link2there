@@ -65,7 +65,7 @@
 		<div class="right">
 	<!--<><><><><><><><><><><><><><><><><><><><><><><><><><>  START <><><><><><><><><><><><><><><><><><><><><><><><><><>-->
 
-		<div id="demo" class="box jplist" style="margin: 20px 0 50px 0">
+		<div id="demo" class="box jplist" style="margin: 5px 0 5px 0">
 
 		<!-- ios button: show/hide panel -->
 		<div class="jplist-ios-button">
@@ -204,25 +204,22 @@
 		<!-- data -->
 		<div class="list box text-shadow">
 
-			<!-- bloomberg -->
-
-
-<?php  echo dailymail (); ?>
-<?php  echo ft (); ?>
-<?php  echo bbcnews (); ?>
-<?php  echo theeconomist (); ?>
-<?php  echo metro (); ?>
-<?php  echo googlenews (); ?>
-<?php  echo bloomberg (); ?>
-<?php  echo businessinsider (); ?>
-<?php  echo guardianuk (); ?>
-<?php  echo fourfourtwo (); ?>
-<?php  echo newscientist (); ?>
-<?php  echo foxsports (); ?>
-<?php  echo techcrunch (); ?>
-<?php  echo cnbc (); ?>
-<?php  echo entertainmentweekly (); ?>
-<?php  echo nationalgeographic (); ?>
+					<?php  echo dailymail (); ?>
+					<?php  echo ft (); ?>
+					<?php  echo bbcnews (); ?>
+					<?php  echo theeconomist (); ?>
+					<?php  echo metro (); ?>
+					<?php  echo googlenews (); ?>
+					<?php  echo bloomberg (); ?>
+					<?php  echo businessinsider (); ?>
+					<?php  echo guardianuk (); ?>
+					<?php  echo fourfourtwo (); ?>
+					<?php  echo newscientist (); ?>
+					<?php  echo foxsports (); ?>
+					<?php  echo techcrunch (); ?>
+					<?php  echo cnbc (); ?>
+					<?php  echo entertainmentweekly (); ?>
+					<?php  echo nationalgeographic (); ?>
 
 
 </div>

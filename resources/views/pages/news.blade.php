@@ -105,23 +105,7 @@
 
       </div>
 
-      <!-- News Logo Fetch-->
-    <!--  <div class="row">
-  	      <div class="col-md-12">
-  	         <div class="panel panel-default">
-  	            <div class="panel-heading"><span class="glyphicon glyphicon-folder-open"></span><b> News Sources</b></div>
-  	             <div class="panel-body">
-  	                <ol class="sources">
 
-  	                   <?php echo sources(); ?>
-
-  	                  </ol>
-  	                   <div class="clearfix"></div>
-  	                  </div>
-
-  	                 </div>
-  	                </div>
-                  </div> --> <!-- Enf of News Logo Fetch-->
 
 
 

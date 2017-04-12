@@ -9,15 +9,12 @@
     @include('partials._nav')
 
 
-      @include('partials._messages')
+    @include('function.findbox')
+
 
     @yield('content')
 
     @include('partials._footer')
-
-
-
-
 
     @yield('scripts')
   </body>

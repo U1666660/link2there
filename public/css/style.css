@@ -1,4 +1,78 @@
 
+/*link2there Start*/
+/* @import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:700&effect=shadow-multiple|3d-float); */
+
+
+.link2there {
+
+  font: 4em 'Source Sans Pro', sans-serif;
+
+}
+
+.font-effect-3d-float {
+  text-shadow: 0 0.032em 0 #b0b0b0, 0px 0.15em 0.11em rgba(0,0,0,0.15), 0px 0.25em 0.021em rgba(0,0,0,0.1), 0px 0.32em 0.32em rgba(0,0,0,0.1);
+  color: #fff;
+}
+.font-effect-shadow-multiple {
+  text-shadow: .04em .04em 0 #fff,.08em .08em 0 #aaa;
+  -webkit-text-shadow: .04em .04em 0 #fff, .08em .08em 0 #aaa;
+}
+
+/*link2there end*/
+
+
+/* findbox start */
+
+/*@import url(http://fonts.googleapis.com/css?family=Montserrat+Alternates);*/
+
+* {
+
+    margin:0;
+    padding:0;
+    font:12pt Arial;
+}
+
+.find {
+  display:flex;
+  position:relative;
+  margin:0.5em auto;
+  width: auto;
+  flex-direction:row;
+  box-shadow:
+   1px 1px 0 rgb(22, 160, 133),
+   2px 2px 0 rgb(22, 160, 133),
+   3px 3px 0 rgb(22, 160, 133),
+   4px 4px 0 rgb(22, 160, 133),
+   5px 5px 0 rgb(22, 160, 133),
+   6px 6px 0 rgb(22, 160, 133),
+   7px 7px 0 rgb(22, 160, 133)
+  ;
+}
+
+.find>input[type=text],
+.find>button {
+  display:block;
+  font:1.2em 'Montserrat Alternates';
+}
+
+.find>input[type=text] {
+  flex:1;
+  padding:0.6em;
+  border:0.2em solid rgb(26, 188, 156);
+
+}
+
+.find>button {
+  padding:0.6em 0.8em;
+  background-color:rgb(26, 188, 156);
+  color:white;
+  border:none;
+}
+
+/* findbox end*/
+
+
+
 .btn-h1-spacing {
     margin-top: 18px;
 }
@@ -7,17 +81,12 @@
      margin-top: 30px;
 }
 
-.w3-allerta {
-  font-family: "Allerta Stencil", Sans-serif;
-}
-
 
 .sources li {
   list-style: none;
   float: left;
   margin: 6px;
 }
-
 
 
 .glyphicon
@@ -50,6 +119,8 @@
 }
 
 /* Recommend Style */
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+
 
 BODY {
   PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
@@ -93,57 +164,125 @@ LI {
 H2 {
   FONT-SIZE: 100%
 }
-
-#change-site {width:1000px; margin:50px auto;}
+/* control the siteslist background display */
+#change-site {
+  max-width:100%;
+  margin:15px auto;
+}
 #change-site .choosesites {
-  BORDER-BOTTOM: #a3d7df 1px solid; BORDER-LEFT: #a3d7df 1px solid; PADDING-BOTTOM: 60px; BACKGROUND: #fff; BORDER-TOP: #a3d7df 1px solid; BORDER-RIGHT: #a3d7df 1px solid; box-shadow: 0 0 1px #d4edf4
+  BORDER-BOTTOM: #a3d7df 1px solid; B
+  ORDER-LEFT: #a3d7df 1px solid;
+  PADDING-BOTTOM: 60px;
+  BACKGROUND: #fff;
+  BORDER-TOP: #a3d7df 1px solid; BORDER-RIGHT: #a3d7df 1px solid;
+  box-shadow: 0 0 1px #d4edf4
 }
 #change-site .choosesites A:hover {
   TEXT-DECORATION: none
 }
 
 #change-site .siteslist H2 {
-  	POSITION: relative; PADDING-BOTTOM: 0px; LINE-HEIGHT: 30px; MARGIN: 20px 20px 12px; PADDING-LEFT: 14px; PADDING-RIGHT: 14px; ZOOM: 1.5; DISPLAY: inline-block; BACKGROUND: #009788; HEIGHT: 32px; COLOR: #fff; PADDING-TOP: 0px; border-radius: 0
+    POSITION: relative;
+    PADDING-BOTTOM: 0px;
+    LINE-HEIGHT: 30px;
+    MARGIN: 20px 20px 12px;
+    PADDING-LEFT: 14px;
+    PADDING-RIGHT: 14px;
+    ZOOM: 1.5; DISPLAY: inline-block;
+    BACKGROUND: #009788; HEIGHT: 32px; COLOR: #fff;
+    PADDING-TOP: 0px; border-radius: 0
 }
 
 #change-site .siteslist H2 SPAN {
-  BORDER-BOTTOM: #fff 6px solid; POSITION: absolute; BORDER-LEFT: #fff 6px solid; LINE-HEIGHT: 0; WIDTH: 0px; DISPLAY: block; FLOAT: none; HEIGHT: 0px; FONT-SIZE: 0px; BORDER-TOP: #009788 6px solid; TOP: 32px; BORDER-RIGHT: #fff 6px solid; LEFT: 20px
+  BORDER-BOTTOM: #fff 6px solid;
+  POSITION: absolute; BORDER-LEFT: #fff 6px solid;
+  LINE-HEIGHT: 0; WIDTH: 0px; DISPLAY: block;
+  FLOAT: none; HEIGHT: 0px; FONT-SIZE: 0px;
+  BORDER-TOP: #009788 6px solid; TOP: 32px;
+  BORDER-RIGHT: #fff 6px solid; LEFT: 20px
 }
 #change-site .siteslist LI {
   BORDER-BOTTOM: #fff 1px solid; BORDER-TOP: #fff 1px solid
 }
 #change-site .siteslist P {
-  BORDER-BOTTOM: #fff 1px solid; PADDING-BOTTOM: 6px; PADDING-LEFT: 30px; PADDING-RIGHT: 10px; BORDER-TOP: #fff 1px solid; PADDING-TOP: 6px
+  max-width: 100%;
+  BORDER-BOTTOM: #fff 1px solid;
+  PADDING-BOTTOM: 6px;
+  PADDING-LEFT: 30px; PADDING-RIGHT: 10px;
+  BORDER-TOP: #fff 1px solid;
+  PADDING-TOP: 6px
 }
 #change-site .siteslist SPAN.label {
-  BORDER-BOTTOM: #ddd 1px solid; BORDER-LEFT: #ddd 1px solid; LINE-HEIGHT: 24px; WIDTH: 72px; ZOOM: 1; DISPLAY: inline-block; HEIGHT: 30px; COLOR: #666; VERTICAL-ALIGN: top; BORDER-TOP: #ddd 1px solid; MARGIN-RIGHT: 5px; BORDER-RIGHT: #ddd 1px solid; border-radius: 0
+  BORDER-BOTTOM: #ddd 1px solid;
+  BORDER-LEFT: #ddd 1px solid;
+  LINE-HEIGHT: 24px;
+  WIDTH: 72px;
+  ZOOM: 1;
+  DISPLAY: inline-block;
+  HEIGHT: 30px;
+  COLOR: #666;
+  VERTICAL-ALIGN: top; BORDER-TOP: #ddd 1px solid;
+  MARGIN-RIGHT: 5px; BORDER-RIGHT: #ddd 1px solid; border-radius: 0
 }
 #change-site .siteslist SPAN.label STRONG {
-  BORDER-BOTTOM: #f7f7f7 1px solid; TEXT-ALIGN: center; BORDER-LEFT: #f7f7f7 1px solid; WIDTH: 74px; DISPLAY: block; FONT-FAMILY: Helvetica; BACKGROUND: #f1f1f1; HEIGHT: 28px; FONT-SIZE: 16px; BORDER-TOP: #f7f7f7 1px solid; BORDER-RIGHT: #f7f7f7 1px solid; border-radius: 0
+  BORDER-BOTTOM: #f7f7f7 1px solid;
+  TEXT-ALIGN: center;
+  BORDER-LEFT: #f7f7f7 1px solid;
+  WIDTH: 74px; DISPLAY: block;
+  FONT: 'Open Sans', sans-serif;
+  BACKGROUND: #f1f1f1;
+  HEIGHT: 28px; FONT-SIZE: 16px;
+  BORDER-TOP: #f7f7f7 1px solid;
+  BORDER-RIGHT: #f7f7f7 1px solid; border-radius: 0
 }
+/* control the whole sitelist display */
 #change-site .siteslist SPAN {
-  WIDTH: 880px; ZOOM: 1; DISPLAY: inline-block; VERTICAL-ALIGN: top
+  max-width: 100%;
+  ZOOM: 1;
+  DISPLAY: inline-block;
+  VERTICAL-ALIGN: top
 }
+/* control the whole font display */
+
 #change-site .siteslist SPAN I {
-  FONT-STYLE: normal; MARGIN: 0px 3px; COLOR: #ccc
+  FONT-STYLE: normal;
+  MARGIN: 0px 3px;
+  COLOR: #ccc
 }
 #change-site .siteslist .hover {
-  BORDER-BOTTOM-COLOR: #e5e5e5; BORDER-TOP-COLOR: #e5e5e5; BORDER-RIGHT-COLOR: #e5e5e5; BORDER-LEFT-COLOR: #e5e5e5
+  BORDER-BOTTOM-COLOR: #e5e5e5;
+  BORDER-TOP-COLOR: #e5e5e5;
+  BORDER-RIGHT-COLOR: #e5e5e5;
+  BORDER-LEFT-COLOR: #e5e5e5
 }
 #change-site .siteslist .hover P {
   BACKGROUND: #f7f7f7
 }
 #change-site .siteslist .hover SPAN.label {
-  BORDER-BOTTOM-COLOR: #1a9e91; BORDER-TOP-COLOR: #1a9e91; BORDER-RIGHT-COLOR: #1a9e91; BORDER-LEFT-COLOR: #1a9e91
+  BORDER-BOTTOM-COLOR: #1a9e91;
+  BORDER-TOP-COLOR: #1a9e91;
+  BORDER-RIGHT-COLOR: #1a9e91;
+  BORDER-LEFT-COLOR: #1a9e91
 }
 #change-site .siteslist .hover SPAN.label STRONG {
-  BORDER-BOTTOM-COLOR: #009788; BORDER-TOP-COLOR: #009788; BACKGROUND: #009788; COLOR: #fff; BORDER-RIGHT-COLOR: #009788; BORDER-LEFT-COLOR: #009788
+  BORDER-BOTTOM-COLOR: #009788;
+  BORDER-TOP-COLOR: #009788;
+  BACKGROUND: #009788; COLOR: #fff;
+  BORDER-RIGHT-COLOR: #009788;
+  BORDER-LEFT-COLOR: #009788
 }
 #change-site .siteslist A {
-  PADDING-BOTTOM: 1px; LINE-HEIGHT: 20px; MARGIN: 5px 10px; PADDING: 5px 10px;  ZOOM: 1; DISPLAY: inline-block; HEIGHT: 20px;  border-radius: 0
+  PADDING-BOTTOM: 1px;
+  LINE-HEIGHT: 20px;
+  MARGIN: 5px 10px;
+  PADDING: 5px 10px;
+  ZOOM: 1; DISPLAY: inline-block;
+  HEIGHT: 20px;  b
+  order-radius: 0
 }
 #change-site .siteslist A:hover {
-  BACKGROUND: #009788; COLOR: #fff
+  BACKGROUND: #009788;
+  COLOR: #fff
 }
 #change-site .siteslist .isonline {
   FONT-WEIGHT: bold
@@ -158,14 +297,24 @@ H2 {
   ZOOM: 1
 }
 .cf:after {
-  DISPLAY: block; HEIGHT: 0px; VISIBILITY: hidden; CLEAR: both; OVERFLOW: hidden; CONTENT: ''
+  DISPLAY: block;
+  HEIGHT: 0px;
+  VISIBILITY: hidden;
+  CLEAR: both;
+  OVERFLOW: hidden; CONTENT: ''
 }
 H2 {
-  PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+  PADDING-BOTTOM: 0px;
+  MARGIN: 0px;
+  PADDING-LEFT: 0px;
+  PADDING-RIGHT: 0px;
+  PADDING-TOP: 0px
 }
 
-BODY {
-  FONT: 14px/1.5 Tahoma, Helvetica, arial, sans-serif; BACKGROUND: #d6e9ec; COLOR: #000
+BODY  {
+  FONT: 14px/1.5 'Open Sans', sans-serif;
+  BACKGROUND: #d6e9ec;
+  COLOR: #000
 }
 A {
   COLOR: #399; TEXT-DECORATION: none
@@ -174,7 +323,7 @@ A:hover {
   TEXT-DECORATION: underline
 }
 SPAN.money {
-  FONT-FAMILY: arial
+  FONT: 'Open Sans', sans-serif;
 }
 SPAN.required {
   COLOR: red
@@ -183,8 +332,8 @@ SPAN.required {
 /* Recommend Style */
 
 
-/* Grid List Style*/
-
+/* Simple Grid List Style*/
+/*
 .simple-list-grid ul li:after, .simple-list-grid:after {
   content: "";
   display: table;
@@ -226,5 +375,5 @@ body { padding: 20px }
   overflow: hidden
 }
 
-.simple-list-grid ul li .thumb img { width: 100%; height:100px; margin:20px auto; }
-/* End of Grid List Style */
+.simple-list-grid ul li .thumb img { width: 100%; height:100px; margin:20px auto; } */
+/* End of Simply Grid List Style */

@@ -22,7 +22,7 @@
           <p class="title">'.$sites['title'].'</p>
           <p class="desc">'.$sites['description'].'</p>
           <p class="theme">
-          <span class="other"><a href="'.$sites['url'].' "style="color:blue;">Read more...</a></span>
+          <span class="other"><a href="'.$sites['url'].' "style="color:blue;">Read more</a></span>
           <span class="grop">Ars Technica</span>
           </p>
           <p class="like">'.$sites['author'].'</p>
