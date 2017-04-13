@@ -1,3 +1,8 @@
+
+<div class="w3-container">
+
+
+
 @if (Session::has('success'))
 
   <div class="alert alert-success" role="alert">
@@ -19,3 +24,5 @@
 
 
 @endif
+
+</div>

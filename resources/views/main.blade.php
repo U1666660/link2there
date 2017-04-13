@@ -6,13 +6,20 @@
  </head>
 
   <body>
+
     @include('partials._nav')
 
 
-    @include('function.findbox')
 
+
+
+  @include('function.findbox')
+
+  @include('partials._messages')
 
     @yield('content')
+
+
 
     @include('partials._footer')
 

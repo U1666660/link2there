@@ -9,11 +9,11 @@
 
   <div class="w3-container w3-center">
     <div class="w3-bar w3-theme">
-      <h4><button class="w3-bar-item w3-button testbtn w3-padding-16" "{{ Request::is('Recommend') ? "active" : "" }}"> <a href="Recommend" style="color:white;">Recommend</a></button>
-      <button class="w3-bar-item w3-button testbtn w3-padding-16" "{{ Request::is('Recommend') ? "active" : "" }}"><a href="News" style="color:white;">News</a></button>
-      <button class="w3-bar-item w3-button testbtn w3-padding-16" "{{ Request::is('Videos') ? "active" : "" }}"><a href="Videos" style="color:white;">Videos</a></button>
-      <button class="w3-bar-item w3-button testbtn w3-padding-16" "{{ Request::is('About') ? "active" : "" }}"><a href="About" style="color:white;">About</a></button>
-      <button class="w3-bar-item w3-button testbtn w3-padding-16" "{{ Request::is('Contact') ? "active" : "" }}"><a href="Contact" style="color:white;">Contact</a></button>
+      <h4><button class="w3-bar-item w3-button testbtn w3-padding-16" "{{ Request::is('recommend') ? "active" : "" }}"> <a href="recommend" style="color:white;">Recommend</a></button>
+      <button class="w3-bar-item w3-button testbtn w3-padding-16" "{{ Request::is('recommend') ? "active" : "" }}"><a href="news" style="color:white;">News</a></button>
+      <button class="w3-bar-item w3-button testbtn w3-padding-16" "{{ Request::is('videos') ? "active" : "" }}"><a href="videos" style="color:white;">Videos</a></button>
+      <button class="w3-bar-item w3-button testbtn w3-padding-16" "{{ Request::is('about') ? "active" : "" }}"><a href="about" style="color:white;">About</a></button>
+      <button class="w3-bar-item w3-button testbtn w3-padding-16" "{{ Request::is('contact') ? "active" : "" }}"><a href="contact" style="color:white;">Contact</a></button>
       </h4>
     </div>
 

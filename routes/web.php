@@ -11,17 +11,17 @@
 |
 */
 
-Route::get('/', function () {
-    return view('pages.recommend');
-});
+
 
 Route::group(['middleware' => ['web']], function () {
 
-Route::get('Recommend', 'PagesController@getRecommend');
-Route::get('News', 'PagesController@getNews');
-Route::get('Videos', 'PagesController@getVideos');
-Route::get('About', 'PagesController@getAbout');
-Route::get('Contact', 'PagesController@getContact');
-Route::get('Listview', 'PagesController@getListview');
+Route::get('/', 'PagesController@getRecommend');
+Route::get('recommend', 'PagesController@getRecommend');
+Route::get('news', 'PagesController@getNews');
+Route::get('videos', 'PagesController@getVideos');
+Route::get('about', 'PagesController@getAbout');
+Route::get('contact', 'PagesController@getContact');
+Route::post('contact', 'PagesController@postContact');
+Route::get('listview', 'PagesController@getListview');
 
 });

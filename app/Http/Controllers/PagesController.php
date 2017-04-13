@@ -4,7 +4,8 @@ namespace App\Http\Controllers;
 
 use App\Http\Controllers\Controller;
 use Illuminate\Http\Request;
-
+use Mail;
+use Session;
 
 class PagesController extends Controller {
 
@@ -25,6 +26,7 @@ class PagesController extends Controller {
     public function getContact() {
        return view('pages.contact');
    }
+
    public function postContact(Request $request) {
      $this->validate($request, [
        'email' => 'required|email',

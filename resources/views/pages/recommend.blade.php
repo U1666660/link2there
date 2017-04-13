@@ -11,7 +11,8 @@
             <div class="siteslist">
               <h2 class="font-effect-3d-float">Categories<span class="arrow">&raquo;</span></h2>
               <ol class="hasallcity">
-                <li id="Social">
+                @include('pages.siteslink')
+              <!--  <li id="Social">
                   <p class="cf font-effect-shadow-multiple"><span class="label"><strong>Social</strong></span><span><a class="isonline" href="https://www.facebook.com">Facebook</a><a class="isoffline" href="https://twitter.com">Twitter</a><a class="isoffline" href="http://sc.chinaz.com">阿坝</a><a class="isoffline" href="http://sc.chinaz.com">阿拉善</a><a class="isoffline" href="http://sc.chinaz.com">阿里</a><a class="isoffline" href="http://sc.chinaz.com">安康</a><a class="isoffline" href="http://sc.chinaz.com">阿克苏</a><a class="isoffline" href="http://sc.chinaz.com">安庆</a><a class="isoffline" href="http://sc.chinaz.com">阿勒泰</a><a class="isoffline" href="http://sc.chinaz.com">安阳</a><a class="isoffline" href="http://sc.chinaz.com">澳门</a></span></p>
                 </li>
                 <li id="Video">
@@ -55,7 +56,7 @@
                 </li>
                 <li id="Jobs">
                   <p class="cf font-effect-shadow-multiple"><span class="label"><strong>Jobs</strong></span><span><a class="isonline" href="http://sc.chinaz.com">青岛</a><a class="isonline" href="http://sc.chinaz.com">泉州</a><a class="isonline" href="http://sc.chinaz.com">秦皇岛</a><a class="isonline" href="http://sc.chinaz.com">齐齐哈尔</a><a class="isoffline" href="http://sc.chinaz.com">庆阳</a><a class="isoffline" href="http://sc.chinaz.com">衢州</a><a class="isoffline" href="http://sc.chinaz.com">黔西南</a><a class="isoffline" href="http://sc.chinaz.com">钦州</a><a class="isoffline" href="http://sc.chinaz.com">黔南</a><a class="isoffline" href="http://sc.chinaz.com">曲靖</a><a class="isoffline" href="http://sc.chinaz.com">黔东南</a><a class="isoffline" href="http://sc.chinaz.com">七台河</a><a class="isoffline" href="http://sc.chinaz.com">清远</a></span></p>
-
+                -->
               </ol>
             </div>
           </div>
