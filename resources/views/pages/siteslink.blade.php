@@ -19,26 +19,64 @@
     <span>
     <a class="isonline" href="https://www.youtube.com/">Youtube</a>
     <a class="isoffline" href="https://vimeo.com">Vimeo</a>
-    <a class="isoffline" href="http://sc.chinaz.com">保定</a>
-    <a class="isoffline" href="http://sc.chinaz.com">巴中</a>
-    <a class="isoffline" href="http://sc.chinaz.com">蚌埠</a>
+    <a class="isoffline" href="http://www.viewster.com/">ViewSter</a>
+    <a class="isoffline" href="http://www.dailymotion.com/gb">DailyMotion</a>
+    <a class="isoffline" href="https://www.twitch.tv/">Twitch</a>
     <a class="isoffline" href="https://www.hulu.com">Hulu</a>
-    <a class="isoffline" href="http://sc.chinaz.com">白城</a>
-    <a class="isoffline" href="http://sc.chinaz.com">白山</a>
-    <a class="isoffline" href="http://sc.chinaz.com">北海</a>
-    <a class="isoffline" href="http://sc.chinaz.com">巴彦淖尔</a>
-    <a class="isoffline" href="http://sc.chinaz.com">宝鸡</a>
-    <a class="isoffline" href="http://sc.chinaz.com">百色</a>
-    <a class="isoffline" href="http://sc.chinaz.com">本溪</a>
-    <a class="isoffline" href="http://sc.chinaz.com">保山</a>
+    <a class="isoffline" href="http://www.snagfilms.com/">SnagFilms</a>
+    <a class="isoffline" href="http://www.imdb.com/">IMDB</a>
+    <a class="isoffline" href="https://fmovies.se/">FMovies</a>
+    <a class="isoffline" href="https://www.rottentomatoes.com/">Rotten Tomatoes</a>
+    <a class="isoffline" href="http://moviewatcher.io/">MovieWatcher</a>
+    <a class="isoffline" href="http://housemovie.to/">HouseMovie</a>
+    <a class="isoffline" href="http://www.mydownloadtube.com/">MyDownloadTube</a>
+    <a class="isoffline" href="https://archive.org/details/movies">Internet Archive</a>
+    <a class="isoffline" href="http://www.thesurfchannel.com/">Surf The Channel</a>
+    <a class="isoffline" href="http://classiccinemaonline.com/">ClassicCinemaOnline</a>
+
     </span>
   </p>
 </li>
 <li id="Music">
-  <p class="cf font-effect-shadow-multiple"><span class="label"><strong>Music</strong></span><span><a class="isonline" href="http://sc.chinaz.com">成都</a><a class="isonline" href="http://sc.chinaz.com">重庆</a><a class="isonline" href="http://sc.chinaz.com">常州</a><a class="isonline" href="http://sc.chinaz.com">长沙</a><a class="isonline" href="http://sc.chinaz.com">长春</a><a class="isoffline" href="http://sc.chinaz.com">赤峰</a><a class="isoffline" href="http://sc.chinaz.com">楚雄</a><a class="isoffline" href="http://sc.chinaz.com">长治</a><a class="isoffline" href="http://sc.chinaz.com">巢湖</a><a class="isoffline" href="http://sc.chinaz.com">崇左</a><a class="isoffline" href="http://sc.chinaz.com">潮州</a><a class="isoffline" href="http://sc.chinaz.com">昌吉</a><a class="isoffline" href="http://sc.chinaz.com">沧州</a><a class="isoffline" href="http://sc.chinaz.com">郴州</a><a class="isoffline" href="http://sc.chinaz.com">常德</a><a class="isoffline" href="http://sc.chinaz.com">滁州</a><a class="isoffline" href="http://sc.chinaz.com">朝阳</a><a class="isoffline" href="http://sc.chinaz.com">昌都</a><a class="isoffline" href="http://sc.chinaz.com">池州</a><a class="isoffline" href="http://sc.chinaz.com">承德</a></span></p>
+  <p class="cf font-effect-shadow-multiple"><span class="label"><strong>Music</strong></span>
+    <span>
+      <a class="isonline" href="https://www.apple.com/uk/apple-music/">Apply Music</a>
+      <a class="isonline" href="http://www.billboard.com/">Billboard</a>
+      <a class="isonline" href="http://www.mtv.co.uk/">MTV UK</a>
+      <a class="isonline" href="https://www.amazon.com/Free-Songs-Music/b?node=334897011">Amazon Free Music</a>
+      <a class="isonline" href="https://www.jamendo.com/">Jamendo</a>
+      <a class="isoffline" href="http://www.soundclick.com/">SoundClick</a>
+      <a class="isoffline" href="http://www.accuradio.com/">AccuRadio</a>
+      <a class="isoffline" href="http://freemusicarchive.org/">Free Music Archive</a>
+      <a class="isoffline" href="http://www.purevolume.com/">PureVolume</a>
+      <a class="isoffline" href="http://www.noisetrade.com/">NoiseTrade</a>
+      <a class="isoffline" href="https://soundcloud.com/">SoundCloud</a>
+      <a class="isoffline" href="http://www.artistdirect.com/music/free-downloads">ARTISTdirect</a>
+      <a class="isoffline" href="http://cctrax.com/">CCTrax</a>
+      <a class="isoffline" href="https://www.spotify.com/uk/">Spotify</a>
+    </span>
+  </p>
 </li>
+
 <li id="News">
-  <p class="cf font-effect-shadow-multiple"><span class="label"><strong>News</strong></span><span><a class="isonline" href="http://sc.chinaz.com">东莞</a><a class="isonline" href="http://sc.chinaz.com">大连</a><a class="isonline" href="http://sc.chinaz.com">东营</a><a class="isoffline" href="http://sc.chinaz.com">大庆</a><a class="isoffline" href="http://sc.chinaz.com">大同</a><a class="isoffline" href="http://sc.chinaz.com">大理</a><a class="isoffline" href="http://sc.chinaz.com">德阳</a><a class="isoffline" href="http://sc.chinaz.com">迪庆</a><a class="isoffline" href="http://sc.chinaz.com">达州</a><a class="isoffline" href="http://sc.chinaz.com">德州</a><a class="isoffline" href="http://sc.chinaz.com">丹东</a><a class="isoffline" href="http://sc.chinaz.com">大兴安岭</a><a class="isoffline" href="http://sc.chinaz.com">德宏</a><a class="isoffline" href="http://sc.chinaz.com">定西</a></span></p>
+  <p class="cf font-effect-shadow-multiple"><span class="label"><strong>News</strong></span>
+    <span>
+      <a class="isonline" href="http://www.bbc.co.uk/news">BBC News</a>
+      <a class="isonline" href="http://www.dailymail.co.uk/home/index.html">MailOnline</a>
+      <a class="isonline" href="https://www.theguardian.com/uk">Guardian</a>
+      <a class="isoffline" href="http://www.telegraph.co.uk/">Telegraph</a>
+      <a class="isoffline" href="https://www.yahoo.com/news/">Yahoo! News Websites</a>
+      <a class="isoffline" href="https://www.thesun.co.uk/">The Sun</a>
+      <a class="isoffline" href="http://metro.co.uk/">Metro</a>
+      <a class="isoffline" href="https://www.thetimes.co.uk/">The Times</a>
+      <a class="isoffline" href="https://news.google.co.uk/">Google News</a>
+      <a class="isoffline" href="http://www.economist.com/">Economist</a>
+      <a class="isoffline" href="https://www.nytimes.com/">NYTimes</a>
+      <a class="isoffline" href="http://sc.chinaz.com">大兴安岭</a>
+      <a class="isoffline" href="http://sc.chinaz.com">德宏</a>
+      <a class="isoffline" href="http://sc.chinaz.com">定西</a>
+    </span>
+  </p>
 </li>
 <li id="Travel">
   <p class="cf font-effect-shadow-multiple"><span class="label"><strong>Travel</strong></span><span><a class="isoffline" href="http://sc.chinaz.com">恩施</a><a class="isoffline" href="http://sc.chinaz.com">鄂州</a><a class="isoffline" href="http://sc.chinaz.com">鄂尔多斯</a></span></p>
