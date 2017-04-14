@@ -17,7 +17,7 @@
 @include('newsfetch.entertainmentweekly')
 @include('newsfetch.theeconomist')
 @include('newsfetch.techcrunch')
-
+@include('newsfetch.bbcsports')
 
 
 
@@ -209,6 +209,7 @@
 					<?php  echo bbcnews (); ?>
 					<?php  echo theeconomist (); ?>
 					<?php  echo metro (); ?>
+					<?php  echo bbcsports (); ?>
 					<?php  echo googlenews (); ?>
 					<?php  echo bloomberg (); ?>
 					<?php  echo businessinsider (); ?>
@@ -220,6 +221,8 @@
 					<?php  echo cnbc (); ?>
 					<?php  echo entertainmentweekly (); ?>
 					<?php  echo nationalgeographic (); ?>
+
+
 
 
 </div>

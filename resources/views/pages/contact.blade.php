@@ -4,34 +4,39 @@
 
 @section('content')
 
-<div class="w3-container center">
+<div class="container center ">
 
-<div class="w3-container">
-    <div class="row">
-    <div class="col-md-12" >
-      <h1>Contact Me <span class="glyphicon glyphicon-envelope"></span></h1>
-      <hr>
+  <div id="change-site">
+    <div class="choosesites" >
+        <div class="siteslist">
+
+      <h2 class="font-effect-3d-float">Contact Me<span class="arrow">&raquo;</span></h2>
       <form action="{{ url('contact') }}" method="POST">
         {{ csrf_field() }}
-
-          <div class="form-group">
-            <label name="email">Email:</label>
+  </br>
+    </br>
+      </br>
+          <div class="form-group" style="margin-left:60px;margin-right:120px;">
+            <label name="email" style="font: 1em 'Montserrat Alternates', sans-serif;">Email:</label>
             <input id="email" name="email" class="form-control" id="email" placeholder="">
           </div>
 
-          <div class="form-group">
-            <label name="subject">Subject:</label>
+          <div class="form-group" style="margin-left:60px;margin-right:120px;">
+            <label name="subject" style="font: 1em 'Montserrat Alternates', sans-serif;">Subject:</label>
             <input id="subject" name="subject" class="form-control" id="subject" placeholder="">
           </div>
 
-          <div class="form-group">
-            <label name="message">Message:</label>
-            <textarea id="message" name="message" class="form-control" rows="8" cols="40">Type your message here...</textarea>
-            <input type="submit" value="Send Message" class="w3-btn w3-teal" style="margin-top: 18px;">
+          <div class="form-group" style="margin-left:60px;margin-right:120px;">
+            <label name="message" style="font: 1em 'Montserrat Alternates', sans-serif;">Message:</label>
+            <textarea id="message" name="message" class="form-control" rows="8" cols="40" style="font: 1em 'Montserrat Alternates', sans-serif;" placeholder="Type your message here..."></textarea>
+            <input type="submit" value="Send Message" class="w3-btn w3-teal" style="margin-top: 18px; font: 1em 'Montserrat Alternates', sans-serif;">
           </div>
         </form>
       </div>
   </div>
+</div>
+</div>
+</div>
 </div>
 
 </div>

@@ -3,6 +3,9 @@
 @section('title', '| Recommend')
 
 @section('content')
+<div class="W3-container center">
+
+
 
     <div id="change-site">
       <div id="bdw" class="bdw">
@@ -76,5 +79,6 @@
     });
     </script>
 
+</div>
 
 @endsection

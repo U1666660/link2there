@@ -4,7 +4,7 @@
 <div class="w3-container">
   <h4 class="font-effect-3d-float">The New Way To Surf The Net</h4></div>
   <div class="w3-container">
-    <p class="link2there font-effect-3d-float">link2there</p>
+    <p class="link2there font-effect-3d-float" >Link2there</p>
   </div>
 
   <div class="w3-container w3-center">

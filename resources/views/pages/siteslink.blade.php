@@ -11,6 +11,10 @@
       <a class="isoffline" href="https://www.instagram.com/accounts/login/">Instagram</a>
       <a class="isoffline" href="https://www.snapchat.com">Snapchat</a>
       <a class="isoffline" href="https://www.reddit.com">Reddit</a>
+      <a class="isoffline" href="https://web.whatsapp.com/">Whatsapp</a>
+      <a class="isoffline" href="http://www.eharmony.co.uk/">eharmony</a>
+
+
     </span>
   </p>
 </li>
@@ -26,12 +30,12 @@
     <a class="isoffline" href="http://www.snagfilms.com/">SnagFilms</a>
     <a class="isoffline" href="http://www.imdb.com/">IMDB</a>
     <a class="isoffline" href="https://fmovies.se/">FMovies</a>
-    <a class="isoffline" href="https://www.rottentomatoes.com/">Rotten Tomatoes</a>
+    <a class="isoffline" href="https://www.rottentomatoes.com/">RottenTomatoes</a>
     <a class="isoffline" href="http://moviewatcher.io/">MovieWatcher</a>
     <a class="isoffline" href="http://housemovie.to/">HouseMovie</a>
     <a class="isoffline" href="http://www.mydownloadtube.com/">MyDownloadTube</a>
-    <a class="isoffline" href="https://archive.org/details/movies">Internet Archive</a>
-    <a class="isoffline" href="http://www.thesurfchannel.com/">Surf The Channel</a>
+    <a class="isoffline" href="https://archive.org/details/movies">InternetArchive</a>
+    <a class="isoffline" href="http://www.thesurfchannel.com/">SurfTheChannel</a>
     <a class="isoffline" href="http://classiccinemaonline.com/">ClassicCinemaOnline</a>
 
     </span>
@@ -40,14 +44,14 @@
 <li id="Music">
   <p class="cf font-effect-shadow-multiple"><span class="label"><strong>Music</strong></span>
     <span>
-      <a class="isonline" href="https://www.apple.com/uk/apple-music/">Apply Music</a>
+      <a class="isonline" href="https://www.apple.com/uk/apple-music/">ApplyMusic</a>
       <a class="isonline" href="http://www.billboard.com/">Billboard</a>
-      <a class="isonline" href="http://www.mtv.co.uk/">MTV UK</a>
-      <a class="isonline" href="https://www.amazon.com/Free-Songs-Music/b?node=334897011">Amazon Free Music</a>
+      <a class="isonline" href="http://www.mtv.co.uk/">MTVUK</a>
+      <a class="isonline" href="https://www.amazon.com/Free-Songs-Music/b?node=334897011">AmazonFreeMusic</a>
       <a class="isonline" href="https://www.jamendo.com/">Jamendo</a>
       <a class="isoffline" href="http://www.soundclick.com/">SoundClick</a>
       <a class="isoffline" href="http://www.accuradio.com/">AccuRadio</a>
-      <a class="isoffline" href="http://freemusicarchive.org/">Free Music Archive</a>
+      <a class="isoffline" href="http://freemusicarchive.org/">FreeMusicArchive</a>
       <a class="isoffline" href="http://www.purevolume.com/">PureVolume</a>
       <a class="isoffline" href="http://www.noisetrade.com/">NoiseTrade</a>
       <a class="isoffline" href="https://soundcloud.com/">SoundCloud</a>
@@ -61,52 +65,223 @@
 <li id="News">
   <p class="cf font-effect-shadow-multiple"><span class="label"><strong>News</strong></span>
     <span>
-      <a class="isonline" href="http://www.bbc.co.uk/news">BBC News</a>
+      <a class="isonline" href="http://www.bbc.co.uk/news">BBCNews</a>
       <a class="isonline" href="http://www.dailymail.co.uk/home/index.html">MailOnline</a>
       <a class="isonline" href="https://www.theguardian.com/uk">Guardian</a>
+      <a class="isonline" href="https://www.ft.com/">FT</a>
       <a class="isoffline" href="http://www.telegraph.co.uk/">Telegraph</a>
-      <a class="isoffline" href="https://www.yahoo.com/news/">Yahoo! News Websites</a>
-      <a class="isoffline" href="https://www.thesun.co.uk/">The Sun</a>
+      <a class="isoffline" href="https://www.yahoo.com/news/">Yahoo!News</a>
+      <a class="isoffline" href="https://www.thesun.co.uk/">TheSun</a>
       <a class="isoffline" href="http://metro.co.uk/">Metro</a>
-      <a class="isoffline" href="https://www.thetimes.co.uk/">The Times</a>
-      <a class="isoffline" href="https://news.google.co.uk/">Google News</a>
+      <a class="isoffline" href="https://www.thetimes.co.uk/">TheTimes</a>
+      <a class="isoffline" href="https://news.google.co.uk/">GoogleNews</a>
       <a class="isoffline" href="http://www.economist.com/">Economist</a>
       <a class="isoffline" href="https://www.nytimes.com/">NYTimes</a>
-      <a class="isoffline" href="http://sc.chinaz.com">大兴安岭</a>
-      <a class="isoffline" href="http://sc.chinaz.com">德宏</a>
-      <a class="isoffline" href="http://sc.chinaz.com">定西</a>
+      <a class="isoffline" href="http://www.foxsports.com/">FOXSports</a>
+      <a class="isoffline" href="https://www.bloomberg.com/europe">Bloomberg</a>
     </span>
   </p>
 </li>
 <li id="Travel">
-  <p class="cf font-effect-shadow-multiple"><span class="label"><strong>Travel</strong></span><span><a class="isoffline" href="http://sc.chinaz.com">恩施</a><a class="isoffline" href="http://sc.chinaz.com">鄂州</a><a class="isoffline" href="http://sc.chinaz.com">鄂尔多斯</a></span></p>
+  <p class="cf font-effect-shadow-multiple"><span class="label"><strong>Travel</strong></span>
+    <span>
+        <a class="isonline" href="https://www.skyscanner.net/">Skyscanner</a>
+      <a class="isoffline" href="https://www.britishairways.com">BritishAirways</a>
+      <a class="isoffline" href="https://www.expedia.co.uk">Expedia</a>
+      <a class="isoffline" href="http://www.thomson.co.uk/">Thomson</a>
+      <a class="isoffline" href="https://www.easyjet.com/en/">EasyJet</a>
+      <a class="isoffline" href="https://www.thetrainline.com/">Trainline</a>
+      <a class="isoffline" href="https://www.onthebeach.co.uk">OntheBeach</a>
+      <a class="isoffline" href="https://www.travelsupermarket.com/">TravelSupermarket</a>
+      <a class="isoffline" href="http://www.nationalrail.co.uk/">NationalRail</a>
+      <a class="isoffline" href="http://www.virginatlantic.com/">VirginAtlantic</a>
+      <a class="isoffline" href="http://www.nationalexpress.com/">NationalExpress</a>
+
+    </span>
+  </p>
 </li>
 <li id="Hotel">
-  <p class="cf font-effect-shadow-multiple"><span class="label"><strong>Hotel</strong></span><span><a class="isonline" href="http://sc.chinaz.com">福州</a><a class="isonline" href="http://sc.chinaz.com">佛山</a><a class="isonline" href="http://sc.chinaz.com">抚顺</a><a class="isoffline" href="http://sc.chinaz.com">阜阳</a><a class="isoffline" href="http://sc.chinaz.com">抚州</a><a class="isoffline" href="http://sc.chinaz.com">防城港</a><a class="isoffline" href="http://sc.chinaz.com">阜新</a></span></p>
+  <p class="cf font-effect-shadow-multiple"><span class="label"><strong>Hotel</strong></span>
+    <span>
+      <a class="isonline" href="https://www.booking.com/">Booking</a>
+      <a class="isonline" href="https://www.tripadvisor.co.uk/">TripAdvisor</a>
+      <a class="isoffline" href="https://www.trivago.co.uk/">Trivago</a>
+      <a class="isoffline" href="https://www.airbnb.co.uk/">Airbnb</a>
+      <a class="isoffline" href="https://www.laterooms.com/">Laterooms</a>
+      <a class="isoffline" href="https://www.homeaway.co.uk/">HomeAway</a>
+      <a class="isoffline" href="http://www.opodo.co.uk/">Opodo</a>
+      <a class="isoffline" href="https://uk.hotels.com/">Hotels</a>
+    </span>
+  </p>
 </li>
 <li id="Shopping">
-  <p class="cf font-effect-shadow-multiple"><span class="label"><strong>Shopping</strong></span><span><a class="isonline" href="http://sc.chinaz.com">广州</a><a class="isonline" href="http://sc.chinaz.com">贵阳</a><a class="isonline" href="http://sc.chinaz.com">桂林</a><a class="isoffline" href="http://sc.chinaz.com">赣州</a><a class="isoffline" href="http://sc.chinaz.com">广元</a><a class="isoffline" href="http://sc.chinaz.com">果洛</a><a class="isoffline" href="http://sc.chinaz.com">固原</a><a class="isoffline" href="http://sc.chinaz.com">甘南</a><a class="isoffline" href="http://sc.chinaz.com">甘孜</a><a class="isoffline" href="http://sc.chinaz.com">广安</a><a class="isoffline" href="http://sc.chinaz.com">贵港</a></span></p>
+  <p class="cf font-effect-shadow-multiple"><span class="label"><strong>Shopping</strong></span>
+    <span>
+      <a class="isonline" href="https://www.amazon.co.uk/">Amazon</a>
+      <a class="isonline" href="https://www.tesco.com/">Tesco</a>
+      <a class="isoffline" href="http://www.sainsburys.co.uk/">Sainsburys</a>
+      <a class="isoffline" href="http://www.asda.com/">ASDA</a>
+      <a class="isonline" href="http://www.ebay.co.uk/">Ebay</a>
+      <a class="isonline" href="https://www.lidl.co.uk">Lidl</a>
+      <a class="isoffline" href="http://www.marksandspencer.com/">M&S</a>
+      <a class="isoffline" href="http://www.argos.co.uk/">Argos</a>
+      <a class="isoffline" href="https://www.johnlewis.com">JohnLewis</a>
+      <a class="isoffline" href="https://www.carphonewarehouse.com/">CarphoneWarehouse</a>
+      <a class="isoffline" href="http://www.boots.com/">Boots</a>
+      <a class="isoffline" href="http://www.wilko.com/">Wilko</a>
+      <a class="isoffline" href="https://www.groupon.co.uk">Groupon</a>
+      <a class="isoffline" href="http://www.currys.co.uk/">Currys</a>
+      <a class="isoffline" href="http://www.ebuyer.com/">ebuyer</a>
+      <a class="isoffline" href="http://www.next.co.uk/">Next</a>
+      <a class="isoffline" href="https://www.houseoffraser.co.uk/">HouseofFraser</a>
+      <a class="isoffline" href="http://www.debenhams.com/">Debenhams</a>
+    </span>
+  </p>
 </li>
 <li id="Sport">
-  <p class="cf font-effect-shadow-multiple"><span class="label"><strong>Sport</strong></span><span><a class="isonline" href="http://sc.chinaz.com">杭州</a><a class="isonline" href="http://sc.chinaz.com">哈尔滨</a><a class="isonline" href="http://sc.chinaz.com">合肥</a><a class="isonline" href="http://sc.chinaz.com">邯郸</a><a class="isonline" href="http://sc.chinaz.com">惠州</a><a class="isonline" href="http://sc.chinaz.com">海口</a><a class="isonline" href="http://sc.chinaz.com">呼和浩特</a><a class="isonline" href="http://sc.chinaz.com">衡阳</a><a class="isonline" href="http://sc.chinaz.com">湖州</a><a class="isoffline" href="http://sc.chinaz.com">淮北</a><a class="isoffline" href="http://sc.chinaz.com">鹤岗</a><a class="isoffline" href="http://sc.chinaz.com">海北</a><a class="isoffline" href="http://sc.chinaz.com">海东</a><a class="isoffline" href="http://sc.chinaz.com">黄南</a><a class="isoffline" href="http://sc.chinaz.com">菏泽</a><a class="isoffline" href="http://sc.chinaz.com">海南州</a><a class="isoffline" href="http://sc.chinaz.com">黑河</a><a class="isoffline" href="http://sc.chinaz.com">和田</a><a class="isoffline" href="http://sc.chinaz.com">哈密</a><a class="isoffline" href="http://sc.chinaz.com">淮安</a><a class="isoffline" href="http://sc.chinaz.com">淮南</a><a class="isoffline" href="http://sc.chinaz.com">黄山</a><a class="isoffline" href="http://sc.chinaz.com">海西</a><a class="isoffline" href="http://sc.chinaz.com">贺州</a><a class="isoffline" href="http://sc.chinaz.com">怀化</a><a class="isoffline" href="http://sc.chinaz.com">河池</a><a class="isoffline" href="http://sc.chinaz.com">呼伦贝尔</a><a class="isoffline" href="http://sc.chinaz.com">衡水</a><a class="isoffline" href="http://sc.chinaz.com">河源</a><a class="isoffline" href="http://sc.chinaz.com">红河</a><a class="isoffline" href="http://sc.chinaz.com">汉中</a><a class="isoffline" href="http://sc.chinaz.com">黄冈</a><a class="isoffline" href="http://sc.chinaz.com">黄石</a><a class="isoffline" href="http://sc.chinaz.com">鹤壁</a><a class="isoffline" href="http://sc.chinaz.com">葫芦岛</a></span></p>
+  <p class="cf font-effect-shadow-multiple"><span class="label"><strong>Sport</strong></span>
+    <span>
+      <a class="isoffline" href="http://www.skysports.com/">SkySports</a>
+      <a class="isoffline" href="http://www.bbc.co.uk/sport">BBCSport</a>
+      <a class="isoffline" href="https://www.theguardian.com/uk/sport">GuardianSport</a>
+      <a class="isoffline" href="https://www.sportinglife.com/">SportingLife</a>
+      <a class="isoffline" href="https://uk.sports.yahoo.com/">YahooSport</a>
+      <a class="isoffline" href="http://www.givemesport.com/">GiveMeSport</a>
+      <a class="isoffline" href="http://www.livescore.com/">LiveScore</a>
+      <a class="isoffline" href="http://www.sportsdirect.com/">SportsDirect</a>
+      <a class="isoffline" href="http://www.telegraph.co.uk/sport/">TelegraphSport</a>
+      <a class="isoffline" href="http://www.golf.com/">Golf</a>
+      <a class="isoffline" href="http://www.atpworldtour.com/">ATP</a>
+      <a class="isoffline" href="https://www.premierleague.com/">PremierLeague</a>
+      <a class="isoffline" href="http://www.espncricinfo.com/">ESPNCricinfo </a>
+
+    </span>
+  </p>
 </li>
 <li id="Books">
-  <p class="cf font-effect-shadow-multiple"><span class="label"><strong>Books</strong></span><span><a class="isonline" href="http://sc.chinaz.com">济南</a><a class="isonline" href="http://sc.chinaz.com">济宁</a><a class="isonline" href="http://sc.chinaz.com">嘉兴</a><a class="isonline" href="http://sc.chinaz.com">金华</a><a class="isonline" href="http://sc.chinaz.com">焦作</a><a class="isonline" href="http://sc.chinaz.com">荆州</a><a class="isonline" href="http://sc.chinaz.com">吉林</a><a class="isonline" href="http://sc.chinaz.com">锦州</a><a class="isonline" href="http://sc.chinaz.com">江门</a><a class="isoffline" href="http://sc.chinaz.com">景德镇</a><a class="isoffline" href="http://sc.chinaz.com">吉安</a><a class="isoffline" href="http://sc.chinaz.com">佳木斯</a><a class="isoffline" href="http://sc.chinaz.com">酒泉</a><a class="isoffline" href="http://sc.chinaz.com">金昌</a><a class="isoffline" href="http://sc.chinaz.com">鸡西</a><a class="isoffline" href="http://sc.chinaz.com">济源</a><a class="isoffline" href="http://sc.chinaz.com">晋城</a><a class="isoffline" href="http://sc.chinaz.com">揭阳</a><a class="isoffline" href="http://sc.chinaz.com">晋中</a><a class="isoffline" href="http://sc.chinaz.com">荆门</a><a class="isoffline" href="http://sc.chinaz.com">九江</a></span></p>
+  <p class="cf font-effect-shadow-multiple"><span class="label"><strong>Books</strong></span>
+    <span>
+      <a class="isoffline" href="https://www.goodreads.com/">Goodreads</a>
+      <a class="isoffline" href="https://www.waterstones.com/">Waterstones</a>
+      <a class="isoffline" href="https://www.whsmith.co.uk/">WHSmith</a>
+      <a class="isoffline" href="https://www.theguardian.com/books">GuardianBooks</a>
+      <a class="isoffline" href="http://www.audible.co.uk/">Audible</a>
+      <a class="isoffline" href="https://www.thebookpeople.co.uk/">BookPeople</a>
+      <a class="isoffline" href="https://www.apple.com/uk/ibooks/">iBook</a>
+      <a class="isoffline" href="https://www.amazon.co.uk/books-used-books-textbooks/b/ref=sd_allcat_bo_books?ie=UTF8&node=266239">AmazonBooks</a>
+      <a class="isoffline" href="https://www.bookdepository.com/">BookDepository</a>
+      <a class="isoffline" href="http://www.foyles.co.uk/">Foyles</a>
+    </span>
+  </p>
 </li>
-<li id="Email">
-  <p class="cf font-effect-shadow-multiple"><span class="label"><strong>Email</strong></span><span><a class="isonline" href="http://sc.chinaz.com">昆明</a><a class="isonline" href="http://sc.chinaz.com">昆山</a><a class="isoffline" href="http://sc.chinaz.com">喀什</a><a class="isoffline" href="http://sc.chinaz.com">克拉玛依</a><a class="isoffline" href="http://sc.chinaz.com">开封</a><a class="isoffline" href="http://sc.chinaz.com">克州</a></span></p>
+<li id="Mail">
+  <p class="cf font-effect-shadow-multiple"><span class="label"><strong>Email</strong></span>
+    <span>
+      <a class="isonline" href="https://mail.google.com">Gmail</a>
+      <a class="isonline" href="https://outlook.live.com/">Outlook</a>
+      <a class="isoffline" href="https://login.yahoo.com/">YahooMail</a>
+      <a class="isoffline" href="https://mail.yandex.com/">YandexMail</a>
+      <a class="isoffline" href="https://www.zoho.eu/mail/">ZohoMail</a>
+      <a class="isoffline" href="http://www.postoffice.co.uk/">PostOffice</a>
+      <a class="isoffline" href="https://www.icloud.com/#mail">iCloudMail</a>
+      <a class="isoffline" href="https://www.gmx.co.uk/">GMXMail</a>
+      <a class="isoffline" href="https://protonmail.com/">ProtonMail</a>
+      <a class="isoffline" href="http://www.postoffice.co.uk/">PostOffice</a>
+
+
+    </span>
+  </p>
 </li>
 <li id="Food">
-  <p class="cf font-effect-shadow-multiple"><span class="label"><strong>Food</strong></span><span><a class="isonline" href="http://sc.chinaz.com">兰州</a><a class="isonline" href="http://sc.chinaz.com">临沂</a><a class="isonline" href="http://sc.chinaz.com">连云港</a><a class="isonline" href="http://sc.chinaz.com">聊城</a><a class="isonline" href="http://sc.chinaz.com">临汾</a><a class="isonline" href="http://sc.chinaz.com">柳州</a><a class="isonline" href="http://sc.chinaz.com">洛阳</a><a class="isonline" href="http://sc.chinaz.com">廊坊</a><a class="isoffline" href="http://sc.chinaz.com">龙岩</a><a class="isoffline" href="http://sc.chinaz.com">六盘水</a><a class="isoffline" href="http://sc.chinaz.com">凉山</a><a class="isoffline" href="http://sc.chinaz.com">六安</a><a class="isoffline" href="http://sc.chinaz.com">丽江</a><a class="isoffline" href="http://sc.chinaz.com">临沧</a><a class="isoffline" href="http://sc.chinaz.com">陇南</a><a class="isoffline" href="http://sc.chinaz.com">拉萨</a><a class="isoffline" href="http://sc.chinaz.com">辽源</a><a class="isoffline" href="http://sc.chinaz.com">辽阳</a><a class="isoffline" href="http://sc.chinaz.com">莱芜</a><a class="isoffline" href="http://sc.chinaz.com">漯河</a><a class="isoffline" href="http://sc.chinaz.com">吕梁</a><a class="isoffline" href="http://sc.chinaz.com">丽水</a><a class="isoffline" href="http://sc.chinaz.com">临夏</a><a class="isoffline" href="http://sc.chinaz.com">林芝</a><a class="isoffline" href="http://sc.chinaz.com">娄底</a><a class="isoffline" href="http://sc.chinaz.com">来宾</a><a class="isoffline" href="http://sc.chinaz.com">泸州</a><a class="isoffline" href="http://sc.chinaz.com">乐山</a></span></p>
+  <p class="cf font-effect-shadow-multiple"><span class="label"><strong>Food</strong></span>
+    <span>
+
+      <a class="isoffline" href="https://www.bbcgoodfood.com/">Good Food</a>
+      <a class="isoffline" href="https://www.opentable.co.uk/start/home">OpenTable</a>
+      <a class="isoffline" href="https://www.just-eat.co.uk/">JustEat</a>
+      <a class="isoffline" href="http://www.jamieoliver.com/">JamieOliver</a>
+      <a class="isoffline" href="https://www.dominos.co.uk/">Domino</a>
+      <a class="isoffline" href="https://www.pizzahut.co.uk/">PizzaHut</a>
+      <a class="isoffline" href="http://www.jamieoliver.com/">JamieOliver</a>
+      <a class="isoffline" href="http://www.foodnetwork.co.uk/">FoodNetwork</a>
+      <a class="isoffline" href="https://www.yelp.co.uk/">Yelp</a>
+      <a class="isoffline" href="http://www.mysupermarket.co.uk/">MySupperMarket</a>
+      <a class="isoffline" href="https://groceries.morrisons.com/">Morrisons</a>
+      <a class="isoffline" href="http://www.yummly.uk/">Yummly</a>
+      <a class="isoffline" href="https://www.zagat.com/">Zagat</a>
+    </span>
+  </p>
 </li>
-<li id="IT">
-  <p class="cf font-effect-shadow-multiple"><span class="label"><strong>IT</strong></span><span><a class="isoffline" href="http://sc.chinaz.com">马鞍山</a><a class="isoffline" href="http://sc.chinaz.com">绵阳</a><a class="isoffline" href="http://sc.chinaz.com">茂名</a><a class="isoffline" href="http://sc.chinaz.com">牡丹江</a><a class="isoffline" href="http://sc.chinaz.com">梅州</a><a class="isoffline" href="http://sc.chinaz.com">眉山</a></span></p>
+<li id="Tech">
+  <p class="cf font-effect-shadow-multiple"><span class="label"><strong>IT</strong></span>
+    <span>
+      <a class="isoffline" href="http://www.pcadvisor.co.uk/">PCAdvisor</a>
+      <a class="isoffline" href="http://www.wired.co.uk/">Wired</a>
+      <a class="isoffline" href="http://www.pcworld.co.uk/">PCWorld</a>
+      <a class="isoffline" href="https://www.theguardian.com/uk/technology">GuardianTechnology</a>
+      <a class="isoffline" href="https://www.apple.com/uk/">Apple</a>
+      <a class="isoffline" href="https://drive.google.com/">GoogleDrive</a>
+      <a class="isoffline" href="https://www.engadget.com/uk/">Engadget</a>
+      <a class="isoffline" href="https://www.microsoft.com/">Microsoft</a>
+      <a class="isoffline" href="http://www.ebuyer.com/">ebuyer</a>
+
+    </span>
+  </p>
 </li>
 <li id="Game">
-  <p class="cf font-effect-shadow-multiple"><span class="label"><strong>Game</strong></span><span><a class="isonline" href="http://sc.chinaz.com">南京</a><a class="isonline" href="http://sc.chinaz.com">宁波</a><a class="isonline" href="http://sc.chinaz.com">南通</a><a class="isonline" href="http://sc.chinaz.com">南宁</a><a class="isonline" href="http://sc.chinaz.com">南昌</a><a class="isoffline" href="http://sc.chinaz.com">南充</a><a class="isoffline" href="http://sc.chinaz.com">宁德</a><a class="isoffline" href="http://sc.chinaz.com">内江</a><a class="isoffline" href="http://sc.chinaz.com">怒江</a><a class="isoffline" href="http://sc.chinaz.com">南平</a><a class="isoffline" href="http://sc.chinaz.com">南阳</a><a class="isoffline" href="http://sc.chinaz.com">那曲</a></span></p>
+  <p class="cf font-effect-shadow-multiple"><span class="label"><strong>Game</strong></span>
+    <span>
+      <a class="isonline" href="https://www.miniclip.com/games/en/">Miniclip</a>
+      <a class="isonline" href="http://www.game.co.uk/">Game</a>
+      <a class="isonline" href="http://www.pogo.com/">Pogo</a>
+      <a class="isonline" href="https://www.ea.com/en-gb">EA</a>
+      <a class="isonline" href="http://www.bigfishgames.com/">BigFishGames</a>
+      <a class="isoffline" href="https://www.zavvi.com">Zavvi</a>
+      <a class="isoffline" href="https://www.gamespot.com/">Gamespot</a>
+      <a class="isoffline" href="https://www.lumosity.com/">Lumosity</a>
+      <a class="isoffline" href="http://www.xbox.com/en-GB/">Xbox</a>
+      <a class="isoffline" href="http://www.agame.com/">Agame</a>
+      <a class="isoffline" href="http://www.games.co.uk/">Games</a>
+    </span>
+  </p>
 </li>
 <li id="Bank">
-  <p class="cf font-effect-shadow-multiple"><span class="label"><strong>Bank</strong></span><span><a class="isoffline" href="http://sc.chinaz.com">萍乡</a><a class="isoffline" href="http://sc.chinaz.com">平顶山</a><a class="isoffline" href="http://sc.chinaz.com">莆田</a><a class="isoffline" href="http://sc.chinaz.com">濮阳</a><a class="isoffline" href="http://sc.chinaz.com">攀枝花</a><a class="isoffline" href="http://sc.chinaz.com">平凉</a><a class="isoffline" href="http://sc.chinaz.com">普洱</a><a class="isoffline" href="http://sc.chinaz.com">盘锦</a></span></p>
+  <p class="cf font-effect-shadow-multiple"><span class="label"><strong>Bank</strong></span>
+    <span>
+      <a class="isoffline" href="https://www.paypal.com">Paypal</a>
+      <a class="isoffline" href="http://www.lloydsbank.com/">Lloydsbank</a>
+      <a class="isoffline" href="http://www.barclays.co.uk/">Barclays</a>
+      <a class="isoffline" href="http://personal.natwest.com/">Natwest</a>
+      <a class="isoffline" href="http://personal.rbs.co.uk/">RBS</a>
+      <a class="isoffline" href="http://www.hsbc.com/">HSBC</a>
+      <a class="isoffline" href="http://www.nationwide.co.uk/">Nationwide</a>
+      <a class="isoffline" href="http://www.tescobank.com/">Tescobank</a>
+      <a class="isoffline" href="http://www.co-operativebank.co.uk/">co-operativebank</a>
+      <a class="isoffline" href="http://www.santander.co.uk/">Santander</a>
+      <a class="isoffline" href="http://www.halifax.co.uk/">Halifax</a>
+      <a class="isoffline" href="https://www.sc.com/">StandardChartered</a>
+      <a class="isoffline" href="https://www.sainsburysbank.co.uk/">SainsburysBank</a>
+      <a class="isoffline" href="https://www.citibank.co.uk">Citi</a>
+      <a class="isoffline" href="http://www.bankofscotland.co.uk/">BankofScotland</a>
+      <a class="isoffline" href="http://www.tsb.co.uk/">TSB</a>
+      <a class="isoffline" href="http://www.ybonline.co.uk/">YorkshireBank</a>
+
+    </span>
+  </p>
 </li>
 <li id="Jobs">
-  <p class="cf font-effect-shadow-multiple"><span class="label"><strong>Jobs</strong></span><span><a class="isonline" href="http://sc.chinaz.com">青岛</a><a class="isonline" href="http://sc.chinaz.com">泉州</a><a class="isonline" href="http://sc.chinaz.com">秦皇岛</a><a class="isonline" href="http://sc.chinaz.com">齐齐哈尔</a><a class="isoffline" href="http://sc.chinaz.com">庆阳</a><a class="isoffline" href="http://sc.chinaz.com">衢州</a><a class="isoffline" href="http://sc.chinaz.com">黔西南</a><a class="isoffline" href="http://sc.chinaz.com">钦州</a><a class="isoffline" href="http://sc.chinaz.com">黔南</a><a class="isoffline" href="http://sc.chinaz.com">曲靖</a><a class="isoffline" href="http://sc.chinaz.com">黔东南</a><a class="isoffline" href="http://sc.chinaz.com">七台河</a><a class="isoffline" href="http://sc.chinaz.com">清远</a></span></p>
+  <p class="cf font-effect-shadow-multiple"><span class="label"><strong>Jobs</strong></span>
+    <span>
+      <a class="isonline" href="https://www.monster.co.uk/">Monster</a>
+      <a class="isonline" href="https://www.reed.co.uk/">Reed</a>
+      <a class="isonline" href="http://www.jobsite.co.uk/">Jobsite</a>
+      <a class="isonline" href="https://www.indeed.co.uk/">indeed</a>
+      <a class="isoffline" href="https://www.cv-library.co.uk/">CVlibrary</a>
+      <a class="isoffline" href="https://www.totaljobs.com/">Totaljobs</a>
+      <a class="isoffline" href="https://jobs.theguardian.com/">GuardianJobs</a>
+      <a class="isoffline" href="http://jobs.telegraph.co.uk/">TelegraphJobs</a>
+      <a class="isoffline" href="http://www.jobisjob.co.uk/">jobisjob</a>
+      <a class="isoffline" href="http://uk.jobrapido.com/">Jobrapido</a>
+
+    </span>
+  </p>

@@ -20,6 +20,7 @@ sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossor
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Allerta+Stencil">
 
 {!! Html::style('css/style.css') !!}
+<link rel="stylesheet" type="text/css" href="css/svvg-styles.css">
 
 
 <!-- font libs -->
