@@ -10,9 +10,7 @@
 
         <div class="choosesites">
 
-
-
-          <div class="w3-third w3-container"  style="float:right;">
+          <div class="siteslist" style="float:right;">
 
 
             <!-- 3D Cloud Start -->
@@ -58,7 +56,7 @@
                           var settings = {
 
                               entries: entries,
-                              width: 250,
+                              width: 320,
                               height: 220,
 
                               radius: '65%',
@@ -106,15 +104,10 @@
 
               </script>
 
-<style media="screen">
-@media screen and (max-width: 692px)   {
-  .main, .small{
-      width:100%;
-      float:none;
-  }
-</style>
+
               </body>
-            <!-- 3D Cloud End -->
+
+                <!-- 3D Cloud End -->
           </div>
 
 
@@ -155,25 +148,6 @@
 </div>
 
 
-<!--
-  <div class="w3-row-padding">
-    <div class="col-md-12">
-      <h1>About Link2there <span class="glyphicon glyphicon-info-sign"></span></h1>
-      <p class="lead">
-        <div class="w3-card-2 w3-container">
-        <p style="FONT: 'Open Sans', sans-serif; text-align: left;">
-
-Link2there(link2there.com) is a human-edited directory of the Web. Only shows the absolute best and most popular websites within different topics. All websites on link2there are selected from the most popular and best websites. Provide a user-friendly web directory to everyone make surfing internet quickly and easily. The huge range of different sites and daily launches of new sites make it difficult to remember and choose. Link2there seeks to solve this issue by provide a clear overview of best resources on the web.
-If you have any suggestions or questions, please go to Contact Page send message to me or send email to pengyunqing730@gmail.com
-Again, Thanks for visiting! <span class="glyphicon glyphicon-heart" style="margin-left: 3px; FONT-SIZE:15px;"></span>
-
-
-  </p>
-    </div>
-    </div>
-    </div>
-  </div>
-</div>
 
 
 @endsection
