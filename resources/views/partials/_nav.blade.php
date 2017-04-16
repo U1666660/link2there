@@ -3,8 +3,16 @@
   <!-- <i onclick="w3_open()" class="fa fa-bars w3-xlarge w3-button w3-theme"></i> -->
 <div class="w3-container">
   <h4 class="font-effect-3d-float">The New Way To Surf The Net</h4></div>
-  <div class="w3-container">
+
+<div class="w3-container">
+
+  <div class="w3-container w3-cell" style="float:left;">
     <p class="link2there font-effect-3d-float" >Link2there</p>
+
+
+</div>
+
+
   </div>
 
   <div class="w3-container w3-center">

@@ -1,7 +1,7 @@
 @include('newsfetch.bloom')
 @include('newsfetch.bbcnews')
 @include('newsfetch.dailymail')
-@include('newsfetch.ft')
+
 @include('newsfetch.metro')
 @include('newsfetch.googlenews')
 @include('newsfetch.businessinsider')
@@ -205,7 +205,7 @@
 		<div class="list box text-shadow">
 
 					<?php  echo dailymail (); ?>
-					<?php  echo ft (); ?>
+				
 					<?php  echo bbcnews (); ?>
 					<?php  echo theeconomist (); ?>
 					<?php  echo metro (); ?>

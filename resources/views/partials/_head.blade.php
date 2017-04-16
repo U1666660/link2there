@@ -21,7 +21,7 @@ sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossor
 
 {!! Html::style('css/style.css') !!}
 <link rel="stylesheet" type="text/css" href="css/svvg-styles.css">
-
+<link href="http://www.jqueryscript.net/css/jquerysctipttop.css" rel="stylesheet" type="text/css">
 
 <!-- font libs -->
 <link href="http://fonts.googleapis.com/css?family=Lato" rel="stylesheet" type="text/css" />
