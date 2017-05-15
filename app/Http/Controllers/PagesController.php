@@ -59,6 +59,10 @@ class PagesController extends Controller {
     }
 
 
+    public function getMap(){
+      return view('pages.map');
+
+    }
 
 
 

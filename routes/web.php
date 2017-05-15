@@ -23,5 +23,6 @@ Route::get('about', 'PagesController@getAbout');
 Route::get('contact', 'PagesController@getContact');
 Route::post('contact', 'PagesController@postContact');
 Route::get('listview', 'PagesController@getListview');
+Route::get('map', 'PagesController@getMap');
 
 });

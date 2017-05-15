@@ -7,10 +7,7 @@
 
   <body>
 
-    @include('partials._nav')
-
-
-
+  @include('partials._nav')
 
 
   @include('function.findbox')

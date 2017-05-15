@@ -8,7 +8,7 @@
 
   <div class="w3-container w3-cell" style="float:left;">
     <p class="link2there font-effect-3d-float" >Link2there</p>
-
+    <br><a href="map" style="color:white;">choose your location</a>
 
 </div>
 
